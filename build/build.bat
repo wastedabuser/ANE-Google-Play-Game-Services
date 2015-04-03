@@ -1,0 +1,1 @@
+ant && copy ..\bin\AirGooglePlayGamesService.ane D:\projects\card_game\code\development\mobile\ane\AirGooglePlayGamesService.ane && pause

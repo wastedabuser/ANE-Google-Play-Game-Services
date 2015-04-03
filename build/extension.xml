@@ -16,13 +16,10 @@
 //  
 //////////////////////////////////////////////////////////////////////////////////////-->
 
-<extension xmlns="http://ns.adobe.com/air/extension/3.1">
+<extension xmlns="http://ns.adobe.com/air/extension/15.0">
     <id>com.freshplanet.AirGooglePlayGamesService</id>
     <versionNumber>1.0</versionNumber>
     <platforms>
-        <platform name="iPhone-ARM">
-            <applicationDeployment/> 
-        </platform>
 
         <platform name="Android-ARM"> 
             <applicationDeployment> 
